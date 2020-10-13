@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     # third party app
     'rest_framework',
-    'rest_framework.authtoken'
+    'rest_framework.authtoken',
 
     # internal apps
     'board'
