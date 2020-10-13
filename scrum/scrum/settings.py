@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # third party app
     'rest_framework',
     'rest_framework.authtoken',
+    'django_filters',
 
     # internal apps
     'board'
